@@ -195,6 +195,11 @@ section{
     grid-area: sectionbottom;
 }
 
+.sectioncitation{
+    align-self: center;
+    padding-left: 1rem;
+}
+
 .listitem{
     list-style: none;
     font-size: 1.5rem;
